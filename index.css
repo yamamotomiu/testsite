@@ -1,0 +1,59 @@
+.top_image {
+ width: 100vw;
+ height: 600px;
+ object-fit: cover;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 100px;
+}
+.profile_image {
+    display:block;
+    width: 100px;
+    height: 100px;
+}
+
+.box{
+    display: flex;
+    justify-content: space-between;
+    width: 846px;
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+    font-size: 14px;
+
+}
+.box1{
+    display: flex;
+    
+}
+
+.bicycle_box{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.bicycle_img{
+    width: 270px;
+    margin-right: 15px;
+}
+
+.box2{
+    margin-right: 15px;
+}
+
+.box3{
+    margin-left: 15px;
+}
+
+.profile_box{
+    background-color: black;
+    color: white;
+}
+
+.kakeru{
+  justify-content: center; 
+}
